@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\Hemish\\Android\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Hemish\\Android\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "E:\\Hemish\\Android\\WhackAMoleApp\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "E:\\Hemish\\Android\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\vibrate_layout.xml",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\anim\\vibrate_layout.xml"
+    },
+    {
+        "merged": "E:\\Hemish\\Android\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Hemish\\Android\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Hemish\\Android\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hammer.xml",
+        "source": "E:\\Hemish\\Android\\WhackAMoleApp\\app\\src\\main\\res\\anim\\hammer.xml"
+    },
+    {
+        "merged": "E:\\Hemish\\Android\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "E:\\Hemish\\Android\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Hemish\\Android\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\vibrate_layout.xml",
+        "source": "E:\\Hemish\\Android\\WhackAMoleApp\\app\\src\\main\\res\\anim\\vibrate_layout.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hammer.xml",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\anim\\hammer.xml"
+    }
+]

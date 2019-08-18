@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dhamu.whackamole"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:name="com.dhamu.whackamole.utility.MyApp"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@style/MyAppTheme" >
+        <activity
+            android:name="com.dhamu.whackamole.SplashActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|navigation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.dhamu.whackamole.MainActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|navigation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dhamu.whackamole.LeaderboardActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|navigation"
+            android:label="@string/title_activity_leaderboard"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dhamu.whackamole.PlayActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|navigation"
+            android:label="@string/title_activity_play"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dhamu.whackamole.RoundDisplayActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|navigation"
+            android:label="@string/title_activity_round_display"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dhamu.whackamole.GameOverActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|navigation"
+            android:label="@string/title_activity_game_over"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dhamu.whackamole.ScoreActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|navigation"
+            android:label="@string/title_activity_score"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dhamu.whackamole.CongratulationActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|navigation"
+            android:label="@string/title_activity_congratulation"
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Aug 18 13:41:22 EDT 2019
+1.base=E\:\\Hemish\\Android\\WhackAMoleApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\24
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=fonts/Bradley_Hand_ITC_TT.ttf
+0.set=ASSET
+0.base=E\:\\Hemish\\Android\\WhackAMoleApp\\app\\build\\intermediates\\assets\\debug
+1.path=classes.dex

@@ -1,0 +1,1562 @@
+[
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_score_header.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\score_header.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_default_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_tab_selected_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_cab_done_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_go_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_search.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_bottom_transparent_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_ab_back_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole5.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\mole5.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_moreoverflow_normal_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_search_dropdown_light.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_play.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\menu\\play.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_stacked_transparent_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_transparent_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_back.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\button_back.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_cab_done_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_share_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_voice_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_spinner_ab_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_spinner_ab_default_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_tab_unselected_pressed_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_solid_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_clear_normal.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_moreoverflow_normal_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_clear_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_transparent_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_searchview_right_holo_dark.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_search.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_stacked_solid_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_tab_selected_pressed_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole3.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\mole3.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_spinner_ab_focused_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_tab_selected_focused_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_ab_back_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_spinner_ab_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_default_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_divider_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_blue2.jpg.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\bg_blue2.jpg"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_cab_background_bottom_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_commit_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_stacked_solid_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_splash.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_solid_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_spinner_ab_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_share_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_stacked_transparent_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_voice_search.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_right_default_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_clear_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_spinner_ab_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_solid_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_leaderboard.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\menu\\leaderboard.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_spinner_ab_focused_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_spinner_ab_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_border.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\bg_border.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_spinner_ab_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole1.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\mole1.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_searchview_holo_light.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_transparent_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whacak_mole.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\whacak_mole.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole7.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\mole7.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_back.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\header_back.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_tab_unselected_pressed_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_menu_hardkey_panel_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_home.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_voice_search.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_divider_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_menu_dropdown_panel_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hit.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\hit.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_spinner_ab_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_abc_simple_decor.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout-v11\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_bottom_transparent_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_cab_background_bottom_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole13.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\mole13.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_default_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_clear_disabled.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_spinner_ab_default_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole12.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\mole12.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_ab_back_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_default_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_vibrate_layout.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\anim\\vibrate_layout.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_spinner_ab_default_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_go.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_moreoverflow_normal_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_bottom_solid_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_spinner_ab_focused_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_single.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\layout\\grid_single.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_tab_unselected_pressed_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_right_selected_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_moreoverflow_normal_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_validation.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\edittext_validation.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_menu_hardkey_panel_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_leaderboard.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\layout\\activity_leaderboard.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_moreoverflow_normal_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_spinner_ab_default_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_tabbar.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_divider_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_tab_selected_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_go.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_clear_disabled.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_selected_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_go.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_cab_done_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_right_selected_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_bottom_solid_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_stacked_solid_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_bottom_transparent_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_bottom_solid_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_bottom_transparent_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_commit_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_bottom_solid_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_go_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_menu_dropdown_panel_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_right_default_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole10.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\mole10.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole9.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\mole9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_cab_background_top_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_bottom_transparent_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_right_selected_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_moreoverflow_normal_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_voice_search.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_share_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_tab_selected_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_default_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_solid_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_tab_selected_focused_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_game_over.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\menu\\game_over.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_clear_normal.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_stacked_solid_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_bg.mp3.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\raw\\bg.mp3"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_spinner_ab_focused_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_menu_dropdown_panel_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_spinner_ab_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_commit_search_api_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_share_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_transparent_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_searchview_holo_dark.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_spinner_ab_focused_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_right_selected_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_cab_background_top_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_congratulation.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\menu\\congratulation.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_menu_hardkey_panel_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_cab_background_top_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_cab_background_bottom_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_ab_back_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_cab_done_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_stacked_transparent_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_tab_selected_focused_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole11.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\mole11.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_stacked_transparent_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_selected_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_default_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_divider_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_bottom_solid_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout-v14\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_tab_selected_focused_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole6.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\mole6.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_clear_search_api_disabled_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hammer.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\hammer.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_stacked_solid_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_spinner_ab_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_divider_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_blue.jpg.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\bg_blue.jpg"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_menu_dropdown_panel_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_cab_background_top_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_stacked_solid_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_search.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_hammer.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\anim\\hammer.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_right_selected_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_tab_selected_pressed_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_stacked_transparent_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole8.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\mole8.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_ab_back_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_commit_search_api_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_solid_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_stacked_transparent_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_cab_background_top_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_in.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11_abc_action_bar_decor.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout-v11\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_default_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_spinner_ab_default_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_selected_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_right_default_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_spinner_ab_default_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_stacked_solid_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_cab_background_bottom_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_cab_background_bottom_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_spinner_ab_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_spinner_ab_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_menu_hardkey_panel_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_right_default_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_solid_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_right_default_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_white.jpg.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\bg_white.jpg"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_right_selected_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_divider_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_commit_search_api_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_search_dropdown_dark.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole2.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\mole2.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_selected_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_congratulation.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\layout\\activity_congratulation.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_congratulations.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\congratulations.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_search.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_clear_disabled.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_divider_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_voice_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_moreoverflow_normal_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_transparent_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_solid_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_spinner_ab_default_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_ab_holo_light.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_stacked_solid_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_score_item.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\layout\\score_item.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_score.jpg.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\bg_score.jpg"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_smash.mp3.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\raw\\smash.mp3"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_spinner_ab_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_clear_normal.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_cab_done_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_clear_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_tab_selected_pressed_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_cab_background_bottom_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_score.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\menu\\score.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_menu_hardkey_panel_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_spinner_ab_focused_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_right_selected_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_cab_background_top_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole14.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\mole14.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_selected_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_solid_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_spinner_ab_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_clear_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_ab_back_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_cab_done_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_voice_search.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_right_selected_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_spinner_ab_default_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_bottom_transparent_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_menu_hardkey_panel_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_tab_selected_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_searchview_right_holo_light.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_clear_search_api_disabled_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_stacked_transparent_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_selected_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_stacked_transparent_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_cab_background_top_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_share_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_holo_light.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_transparent_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_default_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_menu_dropdown_panel_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_menu_hardkey_panel_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_spinner_ab_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_round_display.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\layout\\activity_round_display.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_decor_include.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_selected_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_bottom_solid_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_clear_normal.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_menu_dropdown_panel_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_commit_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_clear_disabled.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_right_default_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_right_default_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_transparent_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole15.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\mole15.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_spinner_ab_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_menu_dropdown_panel_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_menu_dropdown_panel_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_spinner_ab_focused_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_go_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_clear_search_api_disabled_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_selected_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_divider_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_back.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\edittext_back.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_cab_background_bottom_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_score.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\layout\\activity_score.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_bottom_transparent_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_commit_search_api_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_go.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_include.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_decor_overlay.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_ab_holo_dark.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_transparent_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_tab_unselected_pressed_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_ab_back_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_bottom_solid_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_right_default_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_decor.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_commit_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_share_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_go_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text_holo.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\color\\abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_voice_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_moreoverflow_normal_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_cab_done_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_ab_holo.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_cab_background_bottom_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_tab_selected_pressed_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_ab_back_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_tab.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_bg2.mp3.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\raw\\bg2.mp3"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_menu_hardkey_panel_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_bottom_solid_dark_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_cab_background_top_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_share_holo_dark.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_simple_decor.xml.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_share_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mole4.png.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\drawable\\mole4.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game_over.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\layout\\activity_game_over.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_bottom_transparent_light_holo.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-mdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_clear_search_api_disabled_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_spinner_ab_focused_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_play.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_voice_search_api_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_round_display.xml.flat",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\src\\main\\res\\menu\\round_display.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_spinner_ab_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\WhackAMoleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_cab_done_holo_light.png.flat",
+        "source": "C:\\Users\\dhame\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\17edb9be07c324d4672d77862a85e510\\res\\drawable-xxhdpi\\abc_ic_cab_done_holo_light.png"
+    }
+]

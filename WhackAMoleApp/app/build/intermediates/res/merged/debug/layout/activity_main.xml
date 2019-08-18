@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_white"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="60dp"
+        android:layout_centerInParent="true">
+    
+        <Button 
+            android:id="@+id/btnPlay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="25dp"
+            android:layout_marginBottom="30dp"
+            android:text="Play"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:background="@drawable/button_back"/>
+        
+        <Button 
+            android:id="@+id/btnLeaderBoard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="25dp"
+            android:layout_marginBottom="30dp"
+            android:text="Leaderboard"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:background="@drawable/button_back"/>
+        
+        <Button 
+            android:id="@+id/btnExit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="25dp"
+            android:text="Exit"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:background="@drawable/button_back"/>
+        
+    </LinearLayout>
+
+</RelativeLayout>

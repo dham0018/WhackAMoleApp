@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_white"
+    tools:context=".GameOverActivity" >
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@color/transperant_white"
+        android:padding="10dp"
+        android:orientation="vertical">
+    
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textSize="30sp"
+	        android:layout_marginTop="15dp"
+	        android:layout_marginBottom="10dp"
+	        android:layout_gravity="center"
+	        android:text="Game Over" />
+    
+	    <LinearLayout 
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_centerInParent="true"
+	        android:padding="10dp"
+	        android:orientation="horizontal">
+        
+	        <Button 
+		        android:id="@+id/btnPlayAgain"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:padding="10dp"
+		        android:layout_margin="10dp"
+		        android:text="Play Again"
+		        android:layout_gravity="center"
+		        android:textColor="@color/white"
+	            android:textSize="16sp"
+	            android:background="@drawable/button_back"/>
+	        
+	        <Button 
+		        android:id="@+id/btnMainMenu"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:padding="10dp"
+		        android:layout_margin="10dp"
+		        android:text="Main Menu"
+		        android:layout_gravity="center"
+		        android:textColor="@color/white"
+	            android:textSize="16sp"
+	            android:background="@drawable/button_back"/>
+	        
+        </LinearLayout>
+	    
+    </LinearLayout>
+
+</RelativeLayout>

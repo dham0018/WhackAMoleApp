@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Aug 18 13:06:32 EDT 2019
+0.baseType=DIRECTORY
+0.base=E\:\\Hemish\\Android\\WhackAMoleApp\\app\\build\\intermediates\\assets\\debug
+0.path=fonts/Bradley_Hand_ITC_TT.ttf
+0.set=ASSET
+count=1
